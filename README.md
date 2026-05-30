@@ -12,9 +12,9 @@ notebooks/WeatherForecast.ipynb
 4. Run All Cells
 
 Execute all notebook cells sequentially to:
-Clean the dataset
-Perform EDA
-Detect anomalies
-Train forecasting models
-Evaluate model performance
-Generate visualizations
+Clean the dataset,
+Perform EDA,
+Detect anomalies,
+Train forecasting models,
+Evaluate model performance,
+Generate visualizations.
